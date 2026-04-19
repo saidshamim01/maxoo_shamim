@@ -213,10 +213,9 @@ def ____banner____():
 ██████╔╝██║░░██║██║░░██║██║░╚═╝░██║██║██║░╚═╝░██║
 ╚═════╝░╚═╝░░╚═╝╚═╝░░╚═╝╚═╝░░░░░╚═╝╚═╝╚═╝░░░░░╚═╝
  ━O━O━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━O━O━
-[Name]'s Intro! 🐇 💨 
-[~] DEVELOPER   : SAID SHAMIM
-[~] FACEBOOK   : SAID SHAMIM
-[~]GITHUB   : SHAMIM-69
+[=] DEVELOPER   : SAID SHAMIM
+[=] FACEBOOK     : SAID SHAMIM
+[=]GITHUB        : SHAMIM-69
 ========================================================
                                   TOOL BY SHAMIM 
 \033[0m""")
